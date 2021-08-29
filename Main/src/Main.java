@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Привет, МИР");
         System.out.println("Еще раз привет");
         System.out.println("Commit");
+
     }
 }
